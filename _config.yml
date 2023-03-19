@@ -37,12 +37,20 @@ features                                  :
 
   - title                                 : Smart ChatBot
     description                           : Powered by ChatGPT turbo 3. You can ask anything, chatbot will give you answers.
-    fontawesome_icon_name                 : assets/message.png
+    fontawesome_icon_name                 : comments
     
   - title                                 : Code completion
     description                           : Answer any coding question with code example, make developers life easier.
-    fontawesome_icon_name                 : assets/code.png
+    fontawesome_icon_name                 : code
 
+  - title                                 : Translation
+    description                           : Translate any language like a human.
+    fontawesome_icon_name                 : global
+
+
+  - title                                 : AI Writer
+    description                           : Can write anything for me. Your essay, articles, emial reply, etc.
+    fontawesome_icon_name                 : pencil
 
 
 # Theme Settings
@@ -64,7 +72,7 @@ app_title_color                           : "#ffffff"
 app_price_color                           : "#ffffff"
 app_description_color                     : "#ffffff"
 
-feature_title_color                       : "#000000"
+feature_title_color                       : "#fffff"
 feature_text_color                        : "#666666"
 
 feature_icons_foreground_color            : "#1d63ea"
