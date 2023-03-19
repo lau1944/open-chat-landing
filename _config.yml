@@ -45,12 +45,12 @@ features                                  :
 
   - title                                 : Translation
     description                           : Translate any language like a human.
-    fontawesome_icon_name                 : global
+    fontawesome_icon_name                 : magic
 
 
   - title                                 : AI Writer
     description                           : Can write anything for me. Your essay, articles, emial reply, etc.
-    fontawesome_icon_name                 : pencil
+    fontawesome_icon_name                 : info-circle
 
 
 # Theme Settings
@@ -78,8 +78,8 @@ feature_text_color                        : "#666666"
 feature_icons_foreground_color            : "#6abd73"
 feature_icons_background_color            : "#000000"
 
-social_icons_foreground_color             : "#eeeeee"
-social_icons_background_color             : "#eeeeee"
+social_icons_foreground_color             : "#ffffff"
+social_icons_background_color             : "#ffffff"
 
 footer_text_color                         : "#ffffff"
 
